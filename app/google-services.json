@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129641174830",
+    "project_id": "pruebaandroid-dd962",
+    "storage_bucket": "pruebaandroid-dd962.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129641174830:android:93385feab47620a5e08cbf",
+        "android_client_info": {
+          "package_name": "com.programacionandroid.examenfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTbWfU8RvbnBJOkZ2k0ys-ppTr53S2jbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
