@@ -1,7 +1,7 @@
 package com.programacionandroid.examenfinal
 
 class FirebaseRepository {
-    // Method to read data from Firebase Firestore
+
     fun getItems(): List<Item> {
         // TODO: Implementar logica para leer datos de Firestore
         return emptyList()
